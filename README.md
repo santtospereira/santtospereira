@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Junior%20Software%20Developer&fontSize=40&animation=fadeIn&fontColor=ff00ff)
 
-🚀 **Estudante de Ciência da Computação | Desenvolvedor em Construção** 🇧🇷
+🚀 **Estudante de Ciência da Computação | Desenvolvedora em Construção** 🇧🇷
 
 Atualmente foco no desenvolvimento de **sistemas web** e **soluções escaláveis**. 
 Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios Didáticos**, unindo tecnologia, educação e comunicação visual em meus projetos.
