@@ -10,19 +10,17 @@ Focada em criar interfaces modernas e funcionais, evoluindo para Fullstack.
 
 ---
 
-## 👩‍💻 Sobre mim
-Sou estudante de **Ciência da Computação** com formação técnica em **Multimídia Educacional**. 
-Atualmente, meu foco é o **Desenvolvimento Frontend**, utilizando **TypeScript** e **React** para construir aplicações modernas e responsivas.
+## 👩‍💻 Sobre mim (PT-BR)
+Sou estudante de **Ciência da Computação** e apaixonada por usar a tecnologia como ferramenta de inclusão e simplicidade. Minha jornada começou na prática, liderando a transição de processos manuais para o digital em projetos voluntários, o que moldou minha visão de que a tecnologia deve democratizar o acesso. 
 
-Busco minha primeira oportunidade como **Estagiária de Desenvolvimento**, onde eu possa aplicar meus conhecimentos em lógica, versionamento e ecossistema **Linux**.
+Sempre em busca de oportunidades, hoje foco em desenvolvimento de sistemas, priorizando boas práticas de arquitetura e código limpo para entregar soluções que unam eficiência técnica a uma excelente experiência de uso.
 
 ---
 
-## 👩‍💻 About me
-I am a **Computer Science student** with a background in **Educational Multimedia**. 
-My current focus is **Frontend Development**, leveraging **TypeScript** and **React** to build responsive applications.
+## 👩‍💻 About me (EN)
+I am a **Computer Science student** passionate about using technology as a tool for inclusion and simplicity. My journey began in practice, leading the transition from manual to digital processes in volunteer projects, which shaped my vision that technology should democratize access.
 
-I am seeking an **internship in Software Development**, bringing a solid foundation in programming logic, version control, and **Linux** environments.
+Always seeking new opportunities, I now focus on systems development, prioritizing architectural best practices and clean code to deliver solutions that combine technical efficiency with an excellent user experience.
 
 ---
 
