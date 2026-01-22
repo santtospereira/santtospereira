@@ -1,7 +1,5 @@
 # Hi 👋, I'm Camila Santos
 
-# Olá 👋, eu sou Coimbra
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Junior%20Software%20Developer&fontSize=40&animation=fadeIn&fontColor=ff00ff)
 
 🚀 **Estudante de Ciência da Computação | Desenvolvedor em Construção** 🇧🇷
