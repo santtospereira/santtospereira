@@ -16,7 +16,6 @@ Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios
 - 🗣️ **Idiomas**: 
   - 🇺🇸 **Inglês**: Nível Técnico para Desenvolvimento
   - 🇪🇸 **Spanish**: Nível Técnico para Desenvolvimento
-  - 🇧🇷 **Português**: Nativo
 
 ---
 
