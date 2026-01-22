@@ -1,89 +1,81 @@
-<h1 align="center">👩‍💻 Camila Santos</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=230&section=header&text=Camila%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+<h3 align="center">
+💻 Frontend Developer em formação • Ciência da Computação • Dados
+</h3>
 
 <p align="center">
-Frontend Developer em formação • Estudante de Ciência da Computação  
-<br/>
-Belém, Brasil 🇧🇷 • Open to Remote
+Focada em criar interfaces modernas e funcionais, evoluindo para Fullstack.
+</p>
+
+---
+
+## 👩‍💻 Sobre mim (PT-BR)
+Sou estudante de **Ciência da Computação** com formação técnica em **Multimídia Educacional**. 
+Atualmente, meu foco é o **Desenvolvimento Frontend**, utilizando **TypeScript** e **React** para construir aplicações modernas.
+
+Busco minha primeira oportunidade como **Estagiária de Desenvolvimento**, onde eu possa aplicar meus conhecimentos em lógica, versionamento e ecossistema **Linux**.
+
+---
+
+## 👩‍💻 About me (EN)
+I am a **Computer Science student** with a background in **Educational Multimedia**. 
+My current focus is **Frontend Development**, leveraging **TypeScript** and **React** to build responsive applications.
+
+I am seeking an **internship in Software Development**, bringing a solid foundation in programming logic, version control, and **Linux** environments.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend, Dados & OS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas (Purple Mode)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=tokyonight&hide_border=true&sideLabels=bf91ff&stroke=bf91ff" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/camila-santos-5912a0312">LinkedIn</a> •
-  <a href="https://github.com/santtospereira">GitHub</a>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91ff" />
 </p>
 
 ---
 
-## 👋 Sobre mim
-
-🎓 Estudante de **Ciência da Computação**, com formação técnica em **Multimídia Educacional**.  
-
-💻 Tenho foco atual em **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos sólidos de programação, lógica e versionamento em projetos reais.
-
-🚀 No médio prazo, meu objetivo é evoluir para **Fullstack**.  
-🔐 No longo prazo, tenho grande interesse em **Cybersecurity**, especialmente em **segurança de aplicações**.
-
----
-
-## 👩‍💻 About me
-
-🎓 Computer Science student with a background in **Educational Multimedia**.  
-
-💻 Currently focused on **Frontend Development**, seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real-world projects.
-
-🚀 In the medium term, I aim to grow into a **Fullstack Developer**.  
-🔐 In the long term, I am interested in **Cybersecurity**, especially **application security**.
-
----
-
-## 🛠️ Tecnologias
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-</p>
-
-### Backend & Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
-📊 Análise de dados com Python (pandas)
-
-### Ferramentas & Ambiente
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-</p>
-
-### Em aprendizado
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+## 📈 Atividade Recente
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&theme=tokyonight&hide_border=true&area=true&color=bf91ff" />
 </p>
 
 ---
 
 ## 🌍 Idiomas
-
 - 🇧🇷 **Português** — Nativo  
-- 🇺🇸 **Inglês** — Básico
+- 🇺🇸 **Inglês** — Básico (Elementary)
 - 🇪🇸 **Espanhol** — Intermediário  
 
 ---
 
-## 📊 GitHub em números
-
+## 🌐 Contato
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=radical&hide_border=true" />
+  <a href="https://www.linkedin.com/in/camila-santos-5912a0312">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🎯 Objetivo
-
-Atuar como **estagiária em Desenvolvimento Frontend**, contribuindo com código limpo, aprendizado constante e evolução técnica, enquanto construo uma base sólida para atuar futuramente como **Fullstack Developer** e, posteriormente, na área de **Cybersecurity**.
-
----
-
-<p align="center">
-✨ Em constante aprendizado • Código com propósito • Evolução real ✨
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:7F00FF&height=140&section=footer)
