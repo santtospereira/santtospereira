@@ -1,44 +1,49 @@
 <!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=230&section=header&text=Camila%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=220&section=header&text=Camila%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <h3 align="center">
-💻 Desenvolvimento de Software • Ciência da Computação • Dados
+Frontend Development • Computer Science
 </h3>
 
 <p align="center">
-Construindo uma base sólida em programação, com interesse em desenvolvimento e análise de dados.
+Construindo uma base sólida em desenvolvimento frontend, com visão de crescimento para fullstack e segurança de aplicações.
 </p>
 
 ---
 
 ## 👩‍💻 Sobre mim (PT-BR)
-Sou estudante de **Ciência da Computação**, com formação em **Multimídia Educacional**.  
-Busco uma oportunidade de **estágio em Desenvolvimento de Software**, com abertura para atuar também na área de **Dados**.
 
-Tenho foco em construir uma base consistente em programação, lógica e versionamento, sempre priorizando aprendizado contínuo e boas práticas.
+Sou estudante de **Ciência da Computação**, com formação em **Multimídia Educacional**.  
+Atualmente, meu foco é **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos de programação, lógica e versionamento na prática.
+
+Tenho interesse em evoluir para **Fullstack** no médio prazo e, no futuro, atuar na área de **Cybersecurity**, especialmente em segurança de aplicações.
 
 ---
 
 ## 👩‍💻 About me (EN)
-I am a **Computer Science student** with a background in **Educational Multimedia**.  
-I am seeking an **internship in Software Development**, with openness to opportunities in **Data Analysis**.
 
-My focus is on building a strong foundation in programming, logical thinking, and version control, with continuous learning as a priority.
+I am a **Computer Science student** with a background in **Educational Multimedia**.  
+My current focus is **Frontend Development**, and I am seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real projects.
+
+In the medium term, I aim to grow into a **Fullstack Developer**, with a long-term interest in **Cybersecurity**, particularly application security.
 
 ---
 
 ## 🛠️ Tecnologias
-**Base principal**
-- JavaScript
-- Python
-- HTML
-- CSS
-- Git & GitHub
-- Linux
+
+**Base atual**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux&theme=dark" />
+</p>
 
 **Em aprendizado**
-- SQL
-- Data Analysis with Python (pandas)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,sql&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
@@ -80,4 +85,4 @@ My focus is on building a strong foundation in programming, logical thinking, an
 </p>
 
 <!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:7F00FF&height=140&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:7F00FF&height=130&section=footer)
