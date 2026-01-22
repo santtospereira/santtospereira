@@ -1,57 +1,61 @@
-# Hi 👋, I'm Camila Santos
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=220&section=header&text=Hello!%20My%20name%20is%20Santtos&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Junior%20Software%20Developer&fontSize=40&animation=fadeIn&fontColor=ff00ff)
+<h3 align="center">💻 Tech • Computer Science • Multimídia Educacional</h3>
 
-🚀 **Estudante de Ciência da Computação | Desenvolvedora em Construção** 🇧🇷
-
-Atualmente foco no desenvolvimento de **sistemas web** e **soluções escaláveis**. 
-Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios Didáticos**, unindo tecnologia, educação e comunicação visual em meus projetos.
-
----
-
-## 🎓 Formação & Estudos
-
-- 🎓 **Bacharelado em Ciência da Computação**: Foco em algoritmos, arquitetura de sistemas e engenharia de software.
-- 🛠️ **Técnico em Multimeios Didáticos**: Aplicação de tecnologia no suporte educacional e comunicação visual.
-- 🗣️ **Idiomas**: 
-  - 🇺🇸 **Inglês**: Nível Técnico para Desenvolvimento
-  - 🇪🇸 **Spanish**: Nível Técnico para Desenvolvimento
-
----
-
-## 🧠 O que eu faço
-
-- 🏗️ **Projetos Full Stack**: Criando aplicações modernas do zero (Frontend e Backend).
-- 🧩 **Clean Code**: Buscando sempre escrever código limpo e de fácil manutenção.
-- 🐧 **Ecossistema Linux**: Entusiasta e usuário de Linux para ambiente de desenvolvimento e servidores.
-- 🤖 **Integrações & Automação**: Otimizando processos através de código e APIs.
-
----
-
-## 🛠️ Tech Stack
-
-### Desenvolvimento Web
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-
-### Infra, Banco de Dados & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📊 Estatísticas (Purple Mode)
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=calm&bg_color=0d1117&title_color=d800ff&icon_color=d800ff&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=calm&bg_color=0d1117&title_color=d800ff&text_color=ffffff" />
+<p align="center">
+Explorando tecnologia, programação e criação digital.<br>
+Aprendendo, construindo e evoluindo um commit por vez.
 </p>
 
 ---
 
-## 🚀 Filosofia de Estudo
-
-> _"Programação não é apenas sobre resolver problemas, mas sobre construir soluções sustentáveis e que facilitem o aprendizado."_
+## 🧩 Sobre mim
+- 🎓 Estudante de **Ciência da Computação**
+- 🎨 Formação em **Multimídios Didáticos**
+- 🧠 Interesse em **desenvolvimento, educação e tecnologia**
+- 🚀 Foco em crescer como dev e criadora tech
 
 ---
 
-🤝 **Sempre aberto a colaborações em projetos de código aberto e desafios acadêmicos!**
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Linguagens mais usadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Atividade
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&theme=rogue&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+<p align="center">
+  <a href="https://github.com/santtospereira">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer)
