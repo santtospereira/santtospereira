@@ -11,7 +11,7 @@ Construindo uma base sólida em desenvolvimento frontend, com visão de crescime
 
 ---
 
-## 👩‍💻 Sobre mim (PT-BR)
+## 👩‍💻 Sobre mim
 Sou estudante de **Ciência da Computação**, com formação em **Multimídia Educacional**.  
 Atualmente, meu foco é **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos de programação, lógica e versionamento na prática.
 
@@ -19,7 +19,7 @@ Tenho interesse em evoluir para **Fullstack** no médio prazo e, no futuro, atua
 
 ---
 
-## 👩‍💻 About me (EN)
+## 👩‍💻 About me
 I am a **Computer Science student** with a background in **Educational Multimedia**.  
 My current focus is **Frontend Development**, and I am seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real projects.
 
