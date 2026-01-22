@@ -50,7 +50,7 @@ Sempre em busca de oportunidades, hoje foco em desenvolvimento de sistemas, prio
 
 ## 📈 Atividade Recente (Custom Jolly)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&bg_color=0d1117&color=ff00ff&line=7f00ff&point=ffffff&area=true&hide_border=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&bg_color=0d1117&color=ff00ff&line=7f00ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
