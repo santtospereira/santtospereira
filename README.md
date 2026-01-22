@@ -1,56 +1,58 @@
 # Hi 👋, I'm Camila Santos
 
-🚀 **Junior Software Developer | Computer Science Student** 🇧🇷 Brazil
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Junior%20Software%20Developer&fontSize=40&animation=fadeIn&fontColor=ff00ff)
 
-I build **scalable products**, **SaaS platforms**, and **web systems**.  
-Currently pursuing a **Bachelor's in Computer Science** and a **Technical degree in Educational Multimedia**.  
-Deeply focused on **system architecture, clean code, and business-driven solutions**.
+🚀 **Estudante de Ciência da Computação | Desenvolvedor em Construção** 🇧🇷
 
----
-
-## 🎓 Education & Studies
-
-- 🎓 **B.S. in Computer Science**: Focusing on computing fundamentals, algorithms, and software engineering.
-- 🛠️ **Technical in Educational Multimedia**: Applying technology to communication and educational support.
-- 🗣️ **Languages**: 
-  - 🇺🇸 **English**: Technical Proficiency in Development
-  - 🇪🇸 **Spanish**: Technical Proficiency in Development
-  - 🇧🇷 **Portuguese**: Native
+Atualmente foco no desenvolvimento de **sistemas web** e **soluções escaláveis**. 
+Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios Didáticos**, unindo tecnologia, educação e comunicação visual em meus projetos.
 
 ---
 
-## 🧠 What I do
+## 🎓 Formação & Estudos
 
-- 🏗️ **SaaS & Web**: Building modern and functional systems.
-- 🧩 **Clean Code**: Writing maintainable and readable code.
-- 🤖 **Automation & Integrations**: Optimizing processes through code.
-- 📊 **Dashboards & Analytics**: Smart data visualization.
+- 🎓 **Bacharelado em Ciência da Computação**: Foco em algoritmos, arquitetura de sistemas e engenharia de software.
+- 🛠️ **Técnico em Multimeios Didáticos**: Aplicação de tecnologia no suporte educacional e comunicação.
+- 🗣️ **Idiomas**: 
+  - 🇺🇸 **Inglês**: Nível Técnico para Desenvolvimento
+  - 🇪🇸 **Espanhol**: Nível Técnico para Desenvolvimento
+  - 🇧🇷 **Português**: Nativo
+
+---
+
+## 🧠 O que eu faço
+
+- 🏗️ **Projetos Full Stack**: Criando aplicações modernas do zero (Frontend e Backend).
+- 🧩 **Clean Code**: Buscando sempre escrever código limpo e de fácil manutenção.
+- 🐧 **Ecossistema Linux**: Entusiasta e usuário de Linux para ambiente de desenvolvimento e servidores.
+- 🤖 **Integrações & Automação**: Otimizando processos através de código e APIs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Web Development (Frontend & Backend)
+### Desenvolvimento Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+### Infra, Banco de Dados & OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas (Purple Mode)
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=calm&bg_color=0d1117&title_color=d800ff&icon_color=d800ff&text_color=ffffff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=calm&bg_color=0d1117&title_color=d800ff&text_color=ffffff" />
 </p>
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia de Estudo
 
-> _"Code is not just about solving problems. It's about building sustainable and scalable solutions."_
+> _"Programação não é apenas sobre resolver problemas, mas sobre construir soluções sustentáveis e que facilitem o aprendizado."_
 
 ---
 
-🤝 **Always open to collaborations, partnerships, and academic challenges!**
+🤝 **Sempre aberto a colaborações em projetos de código aberto e desafios acadêmicos!**
+
