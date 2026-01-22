@@ -1,73 +1,89 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=230&section=header&text=Camila%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-<h3 align="center">
-💻 Frontend Developer em formação • Ciência da Computação • Dados
-</h3>
+<h1 align="center">👩‍💻 Camila Santos</h1>
 
 <p align="center">
-Focada em criar interfaces modernas e funcionais, evoluindo para Fullstack.
+Frontend Developer em formação • Estudante de Ciência da Computação  
+<br/>
+Belém, Brasil 🇧🇷 • Open to Remote
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camila-santos-5912a0312">LinkedIn</a> •
+  <a href="https://github.com/santtospereira">GitHub</a>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim (PT-BR)
-Sou estudante de **Ciência da Computação** com formação técnica em **Multimídia Educacional**. 
-Atualmente, meu foco é o **Desenvolvimento Frontend**, utilizando **TypeScript** e **React** para construir aplicações escaláveis. 
+## 👋 Sobre mim
 
-Busco minha primeira oportunidade como **Estagiária de Desenvolvimento**, onde eu possa aplicar meus conhecimentos em lógica, versionamento e ecossistema **Linux**.
+🎓 Estudante de **Ciência da Computação**, com formação técnica em **Multimídia Educacional**.  
 
----
+💻 Tenho foco atual em **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos sólidos de programação, lógica e versionamento em projetos reais.
 
-## 👩‍💻 About me (EN)
-I am a **Computer Science student** with a background in **Educational Multimedia**. 
-My current focus is **Frontend Development**, leveraging **TypeScript** and **React** to build scalable applications.
-
-I am seeking an **internship in Software Development**, bringing a solid foundation in programming logic, version control, and **Linux** environments.
+🚀 No médio prazo, meu objetivo é evoluir para **Fullstack**.  
+🔐 No longo prazo, tenho grande interesse em **Cybersecurity**, especialmente em **segurança de aplicações**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👩‍💻 About me
 
-**Frontend (Foco Principal)**
-- JavaScript (ES6+) & **TypeScript**
-- **React.js** & Next.js
-- HTML5 & CSS3 (Flexbox/Grid)
+🎓 Computer Science student with a background in **Educational Multimedia**.  
 
-**Base & Ferramentas**
-- **Linux (Ambiente de Desenvolvimento)**
-- Git & GitHub
-- Python (Estudos de Dados)
-- SQL
+💻 Currently focused on **Frontend Development**, seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real-world projects.
+
+🚀 In the medium term, I aim to grow into a **Fullstack Developer**.  
+🔐 In the long term, I am interested in **Cybersecurity**, especially **application security**.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=tokyonight&hide_border=true" />
+## 🛠️ Tecnologias
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 </p>
 
----
+### Backend & Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
 
-## 🧠 Linguagens mais utilizadas
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=tokyonight&hide_border=true" />
+📊 Análise de dados com Python (pandas)
+
+### Ferramentas & Ambiente
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+### Em aprendizado
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ---
 
 ## 🌍 Idiomas
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Intermediário  
-- 🇪🇸 Espanhol — Intermediário  
+
+- 🇧🇷 **Português** — Nativo  
+- 🇺🇸 **Inglês** — Básico
+- 🇪🇸 **Espanhol** — Intermediário  
 
 ---
 
-## 🌐 Contato
+## 📊 GitHub em números
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/camila-santos-5912a0312">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=radical&hide_border=true" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:7F00FF&height=140&section=footer)
+---
+
+## 🎯 Objetivo
+
+Atuar como **estagiária em Desenvolvimento Frontend**, contribuindo com código limpo, aprendizado constante e evolução técnica, enquanto construo uma base sólida para atuar futuramente como **Fullstack Developer** e, posteriormente, na área de **Cybersecurity**.
+
+---
+
+<p align="center">
+✨ Em constante aprendizado • Código com propósito • Evolução real ✨
+</p>
