@@ -45,19 +45,31 @@ I am seeking an **internship in Software Development**, bringing a solid foundat
 
 ---
 
-## 📊 Estatísticas (Purple Mode)
+## 📊 Estatísticas Detalhadas (Jolly Theme)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=tokyonight&hide_border=true&title_color=bf91ff&icon_color=bf91ff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=tokyonight&hide_border=true&sideLabels=bf91ff&stroke=bf91ff" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santtospereira&theme=jolly" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=tokyonight&hide_border=true&title_color=bf91ff" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santtospereira&theme=jolly" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santtospereira&theme=jolly" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santtospereira&theme=jolly" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santtospereira&theme=jolly&utcOffset=-3" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=santtospereira&theme=jolly&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-## 📈 Atividade Recente
+## 📈 Atividade Semanal
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&theme=tokyonight&hide_border=true&area=true&color=bf91ff" />
 </p>
