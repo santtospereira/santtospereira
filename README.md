@@ -1,5 +1,7 @@
 # Hi 👋, I'm Camila Santos
 
+# Olá 👋, eu sou Coimbra
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Junior%20Software%20Developer&fontSize=40&animation=fadeIn&fontColor=ff00ff)
 
 🚀 **Estudante de Ciência da Computação | Desenvolvedor em Construção** 🇧🇷
@@ -12,10 +14,10 @@ Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios
 ## 🎓 Formação & Estudos
 
 - 🎓 **Bacharelado em Ciência da Computação**: Foco em algoritmos, arquitetura de sistemas e engenharia de software.
-- 🛠️ **Técnico em Multimeios Didáticos**: Aplicação de tecnologia no suporte educacional e comunicação.
-- 🗣️ **Idiomas**: 
+- 🛠️ **Técnico em Multimeios Didáticos**: Aplicação de tecnologia no suporte educacional e comunicação visual.
+- 🗣️ **Idiomas**: 
   - 🇺🇸 **Inglês**: Nível Técnico para Desenvolvimento
-  - 🇪🇸 **Espanhol**: Nível Técnico para Desenvolvimento
+  - 🇪🇸 **Spanish**: Nível Técnico para Desenvolvimento
   - 🇧🇷 **Português**: Nativo
 
 ---
@@ -42,8 +44,8 @@ Sou graduando em **Ciência da Computação** e curso o **Técnico em Multimeios
 ## 📊 Estatísticas (Purple Mode)
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=calm&bg_color=0d1117&title_color=d800ff&icon_color=d800ff&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=calm&bg_color=0d1117&title_color=d800ff&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=calm&bg_color=0d1117&title_color=d800ff&icon_color=d800ff&text_color=ffffff&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=calm&bg_color=0d1117&title_color=d800ff&text_color=ffffff" />
 </p>
 
 ---
