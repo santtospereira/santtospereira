@@ -10,15 +10,15 @@ Focada em criar interfaces modernas e funcionais, evoluindo para Fullstack.
 
 ---
 
-## 👩‍💻 Sobre mim (PT-BR)
+## 👩‍💻 Sobre mim
 Sou estudante de **Ciência da Computação** com formação técnica em **Multimídia Educacional**. 
-Atualmente, meu foco é o **Desenvolvimento Frontend**, utilizando **TypeScript** e **React** para construir aplicações modernas.
+Atualmente, meu foco é o **Desenvolvimento Frontend**, utilizando **TypeScript** e **React** para construir aplicações modernas e responsivas.
 
 Busco minha primeira oportunidade como **Estagiária de Desenvolvimento**, onde eu possa aplicar meus conhecimentos em lógica, versionamento e ecossistema **Linux**.
 
 ---
 
-## 👩‍💻 About me (EN)
+## 👩‍💻 About me
 I am a **Computer Science student** with a background in **Educational Multimedia**. 
 My current focus is **Frontend Development**, leveraging **TypeScript** and **React** to build responsive applications.
 
@@ -28,20 +28,23 @@ I am seeking an **internship in Software Development**, bringing a solid foundat
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend, Dados & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="45" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="45" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="45" alt="Bootstrap" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="45" alt="Prisma" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="45" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="45" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" width="45" alt="Figma" />
+</div>
 
 ---
 
@@ -69,7 +72,7 @@ I am seeking an **internship in Software Development**, bringing a solid foundat
 
 ---
 
-## 📈 Atividade Semanal
+## 📈 Atividade Recente
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&theme=tokyonight&hide_border=true&area=true&color=bf91ff" />
 </p>
