@@ -10,14 +10,14 @@ Focada em criar interfaces modernas e funcionais, evoluindo para Fullstack.
 
 ---
 
-## 👩‍💻 Sobre mim (PT-BR)
+## 👩‍💻 Sobre mim
 Sou estudante de **Ciência da Computação** e apaixonada por usar a tecnologia como ferramenta de inclusão e simplicidade. Minha jornada começou na prática, liderando a transição de processos manuais para o digital em projetos voluntários, o que moldou minha visão de que a tecnologia deve democratizar o acesso. 
 
 Sempre em busca de oportunidades, hoje foco em desenvolvimento de sistemas, priorizando boas práticas de arquitetura e código limpo para entregar soluções que unam eficiência técnica a uma excelente experiência de uso.
 
 ---
 
-## 👩‍💻 About me (EN)
+## 👩‍💻 About me
 I am a **Computer Science student** passionate about using technology as a tool for inclusion and simplicity. My journey began in practice, leading the transition from manual to digital processes in volunteer projects, which shaped my vision that technology should democratize access.
 
 Always seeking new opportunities, I now focus on systems development, prioritizing architectural best practices and clean code to deliver solutions that combine technical efficiency with an excellent user experience.
@@ -33,7 +33,6 @@ Always seeking new opportunities, I now focus on systems development, prioritizi
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="45" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="45" alt="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="45" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="45" alt="Bootstrap" />
   <br><br>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="45" alt="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="45" alt="PostgreSQL" />
@@ -46,7 +45,7 @@ Always seeking new opportunities, I now focus on systems development, prioritizi
 
 ---
 
-## 📊 Estatísticas Detalhadas (Jolly Theme)
+## 📊 Estatísticas Detalhadas
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santtospereira&theme=jolly" />
