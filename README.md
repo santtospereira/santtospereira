@@ -1,84 +1,89 @@
-<!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=220&section=header&text=Camila%20Santos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-<h3 align="center">
-Frontend Development • Computer Science
-</h3>
+<h1 align="center">👩‍💻 Camila Santos</h1>
 
 <p align="center">
-Construindo uma base sólida em desenvolvimento frontend, com visão de crescimento para fullstack e segurança de aplicações.
+Frontend Developer em formação • Estudante de Ciência da Computação  
+<br/>
+Belém, Brasil 🇧🇷 • Open to Remote
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camila-santos-5912a0312">LinkedIn</a> •
+  <a href="https://github.com/santtospereira">GitHub</a>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
-Sou estudante de **Ciência da Computação**, com formação em **Multimídia Educacional**.  
-Atualmente, meu foco é **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos de programação, lógica e versionamento na prática.
+## 👋 Sobre mim (PT-BR)
 
-Tenho interesse em evoluir para **Fullstack** no médio prazo e, no futuro, atuar na área de **Cybersecurity**, especialmente em segurança de aplicações.
+🎓 Estudante de **Ciência da Computação**, com formação técnica em **Multimídia Educacional**.  
+
+💻 Tenho foco atual em **Desenvolvimento Frontend**, buscando uma oportunidade de **estágio** para aplicar fundamentos sólidos de programação, lógica e versionamento em projetos reais.
+
+🚀 No médio prazo, meu objetivo é evoluir para **Fullstack**.  
+🔐 No longo prazo, tenho grande interesse em **Cybersecurity**, especialmente em **segurança de aplicações**.
 
 ---
 
-## 👩‍💻 About me
-I am a **Computer Science student** with a background in **Educational Multimedia**.  
-My current focus is **Frontend Development**, and I am seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real projects.
+## 👩‍💻 About me (EN)
 
-In the medium term, I aim to grow into a **Fullstack Developer**, with a long-term interest in **Cybersecurity**, particularly application security.
+🎓 Computer Science student with a background in **Educational Multimedia**.  
+
+💻 Currently focused on **Frontend Development**, seeking an **internship** to apply programming fundamentals, logical thinking, and version control in real-world projects.
+
+🚀 In the medium term, I aim to grow into a **Fullstack Developer**.  
+🔐 In the long term, I am interested in **Cybersecurity**, especially **application security**.
 
 ---
 
 ## 🛠️ Tecnologias
-**Base atual**
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git & GitHub
-- Linux
 
-**Em aprendizado**
-- TypeScript
-- SQL
-- Data Analysis with Python (pandas)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=radical&hide_border=true" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 </p>
 
----
-
-## 🧠 Linguagens mais utilizadas
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtospereira&layout=compact&theme=radical&hide_border=true" />
+### Backend & Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
----
+📊 Análise de dados com Python (pandas)
 
-## 📈 Atividade
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santtospereira&theme=rogue&hide_border=true" />
+### Ferramentas & Ambiente
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+### Em aprendizado
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ---
 
 ## 🌍 Idiomas
-- Portuguese — Native  
-- English — Intermediate  
-- Spanish — Intermediate  
-- Italian — Beginner  
+
+- 🇧🇷 **Português** — Nativo  
+- 🇺🇸 **Inglês** — Intermediário (em desenvolvimento)  
+- 🇪🇸 **Espanhol** — Intermediário  
 
 ---
 
-## 🌐 Contato
+## 📊 GitHub em números
+
 <p align="center">
-  <a href="https://github.com/santtospereira">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santtospereira&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santtospereira&theme=radical&hide_border=true" />
 </p>
 
-<!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:7F00FF&height=130&section=footer)
+---
+
+## 🎯 Objetivo
+
+Atuar como **estagiária em Desenvolvimento Frontend**, contribuindo com código limpo, aprendizado constante e evolução técnica, enquanto construo uma base sólida para atuar futuramente como **Fullstack Developer** e, posteriormente, na área de **Cybersecurity**.
+
+---
+
+<p align="center">
+✨ Em constante aprendizado • Código com propósito • Evolução real ✨
+</p>
